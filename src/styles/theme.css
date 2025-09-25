@@ -1,3 +1,15 @@
 :root {
-    --primary: lightgrey;
+    --primary-light:#60CD64 ;
+    --primary: #37AD3B;
+    --primary-dark:#1C591E;
+
+    --secondary-light: #7389E7;
+    --secondary-dark: #182D8C;
+    --secondary: #2343CC;
+
+    --bg-light: #dcf8dc;
+
+    --text-white: white;
+    --text-gray: rgb(71, 71, 71);
+    --text-black: black;
 }
