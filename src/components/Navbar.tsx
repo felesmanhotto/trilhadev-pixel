@@ -14,7 +14,7 @@ export function Navbar() {
                 <p>Depoimentos</p>
                 <p>Contato</p>
             </div>
-            <p className="button-small">Participe</p>
+            <p className="button button-small">Participe</p>
         </div>
     )
 }
